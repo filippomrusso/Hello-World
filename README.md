@@ -1,4 +1,5 @@
-#Mi Presento
+
+
 Ciao a chiunque metta occhio su questo file!
 Mi chiamo Filippo, ho 17 anni, vivo in un paese dell' interland Milanese e sono alla fine del quarto anno dell' IIS Volta di Lodi, indirizzo informatico.
 Sin da piccolo sono stato attratto dal mondo dell'informatica, usare i pc era come se fosse elementare per me.
